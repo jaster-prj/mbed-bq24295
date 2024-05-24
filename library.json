@@ -1,0 +1,22 @@
+{
+  "name": "BQ24295",
+  "version": "0.1.0",
+  "description": "MBED OS Library for BQ24295 LiIon Battery Charger",
+  "keywords": "BQ24295, Battery, mbed os",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/jaster-prj/mbed-bq24295.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Tobias Jaster",
+      "email": "t.jaster@posteo.de",
+      "maintainer": true
+    }
+  ],
+  "license": "Apache-2.0",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
