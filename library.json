@@ -1,6 +1,6 @@
 {
   "name": "BQ24295",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MBED OS Library for BQ24295 LiIon Battery Charger",
   "keywords": "BQ24295, Battery, mbed os",
   "repository":

@@ -22,7 +22,7 @@
 // Define this to print debug information
 //#define DEBUG_BQ24295
 
-#include <bq24295.h>
+#include "../include/bq24295.h"
 
 #ifdef DEBUG_BQ24295
 # include <stdio.h>
